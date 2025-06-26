@@ -22,9 +22,7 @@ A simple and stylish To-Do List web application built with **HTML**, **CSS**, an
 
 ---
 
-## 🚀 Live Demo
-
-**[🔗 View Project on GitHub Pages](https://your-username.github.io/todo-list/)**  
+## Github repo - 
 
 
 ---
