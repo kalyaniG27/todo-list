@@ -23,7 +23,7 @@ A simple and stylish To-Do List web application built with **HTML**, **CSS**, an
 ---
 
 ## Github repo - 
-
+     https://github.com/kalyaniG27/todo-list.git
 
 ---
 
